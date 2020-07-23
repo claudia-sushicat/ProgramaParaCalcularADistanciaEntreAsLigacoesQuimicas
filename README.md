@@ -6,5 +6,5 @@ We were very excited about it!
 Me, and @tartaponei in that time was Chemical Engineering students, so all we have to do was a program that assimilate with the chemistry area, and then EUREKA!
 In this repository you can find a .db document wich is responsable for the informations about periodic table, eletronegativity, atomic radius, and more /all stuff we needed to do all the work
 what work?
-Calculate the distance between two atoms in a chemical ligation
+Calculate the distance between two atoms in a chemical bond
 Please be patience, we're just exploring spyder/Python. ^u^
